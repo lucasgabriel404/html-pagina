@@ -145,14 +145,15 @@ body{
 
     .apresentacao {
       flex-direction: column-reverse;
+      padding: 5% 5%;
     }
 
     .apresentacao__conteudo{
-        width: 80%;
+        width: 100%;
     }
     
     .imagem{
-        width: 80%;
+        width: 50%;
     }
     
 }
